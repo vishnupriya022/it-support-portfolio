@@ -20,6 +20,6 @@ Here are my 4 IT Support Ticketing projects:
 
 6. [VPN Connectivity Issue – IT Support](https://github.com/vishnupriya022/VPN-Connectivity-Issue-IT-Support)
  
-   - This project demonstrates a real-world IT support scenario where a user is unable to connect to a VPN. It shows step-by-step troubleshooting, resolution, and ticket closure — fully documented for GitHub portfolio use.
+   - This project demonstrates a real-world IT support scenario where a user is unable to connect to a VPN. It shows step-by-step troubleshooting, resolution, and ticket closure.
    
    
