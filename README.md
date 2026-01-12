@@ -1,8 +1,15 @@
 # IT Support Ticketing Projects Portfolio
 
-Here are my IT Support Ticketing projects:
+Here are my  IT Support Ticketing projects:
 
-1. [IT Support Ticketing Project 1](https://github.com/yourusername/project1)
-2. [IT Support Ticketing Project 2](https://github.com/yourusername/project2)
-3. [IT Support Ticketing Project 3](https://github.com/yourusername/project3)
-4. [IT Support Ticketing Project 4](https://github.com/yourusername/project4)
+1. [Printer Not Working - IT Support](https://github.com/yourusername/printer-not-working-it-support)  
+   - A project for managing and resolving printer issues.
+
+2. [Outlook Not Working - IT Support](https://github.com/yourusername/outlook-not-working-it-support)  
+   - A project for handling Outlook/email problems for users.
+
+3. [User Account Lockout - IT Support](https://github.com/yourusername/user-account-lockout-it-support)  
+   - A project to manage user account lockouts and related issues.
+
+4. [Internet Connectivity Issue - IT Support](https://github.com/yourusername/internet-connectivity-issue-it-support)  
+   - A project for tracking and resolving internet/network connectivity problems.
