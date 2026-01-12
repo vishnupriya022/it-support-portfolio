@@ -16,5 +16,5 @@ Here are my 4 IT Support Ticketing projects:
   
 5. [Password Reset – IT Support](https://github.com/vishnupriya022/password-reset-it-support)
  
-   -This project demonstrates how an IT support team handles password reset requests, including user verification, account status checks, password reset procedures, and ticket closure steps.
+   - This project demonstrates how an IT support team handles password reset requests, including user verification, account status checks, password reset procedures, and ticket closure steps.
    
